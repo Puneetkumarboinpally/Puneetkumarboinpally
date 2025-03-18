@@ -1,4 +1,4 @@
-# Hi there, I'm Puneetkumar Boinpally! 👋
+# Hi there, I'm PUNEET KUMAR BOINPALLY! 👋
 
 💻 **Web Developer** | 🎨 **Frontend Enthusiast** | 🌍 **Based in Sheffield, UK**
 
