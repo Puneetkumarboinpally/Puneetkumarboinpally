@@ -1,4 +1,8 @@
 # Hi there, I'm PUNEET KUMAR BOINPALLY! 👋
+![HTML](https://img.shields.io/badge/Code-HTML-orange)
+![CSS](https://img.shields.io/badge/Code-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![Git](https://img.shields.io/badge/Version%20Control-Git-red)
 
 💻 **Web Developer** | 🎨 **Frontend Enthusiast** | 🌍 **Based in Sheffield, UK**
 
@@ -27,6 +31,8 @@
 
 ### 📈 **GitHub Stats:**
 ![Puneetkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puneetkumarboinpally&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Puneetkumarboinpally&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Puneetkumarboinpally)
 
 ---
 
