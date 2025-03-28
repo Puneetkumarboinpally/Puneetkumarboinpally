@@ -30,8 +30,7 @@
 ---
 
 ### 📈 **GitHub Stats:**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Puneetkumarboinpally&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Puneetkumarboi![Puneetkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puneetkumarboinpally&show_icons=true&theme=radical)pally&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=Puneetkumarboinpally)
 
 ---
