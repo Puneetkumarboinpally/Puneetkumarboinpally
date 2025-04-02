@@ -31,8 +31,8 @@
 
 ### 📈 **GitHub Stats:**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Puneetkumarboinpally)
-![Puneetkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puneetkumarboinpally&show_icons=true&theme=radical)pally&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=Puneetkumarboinpally)
+![Puneetkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puneetkumarboinpally&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Puneetkumarboinpally&layout=compact&theme=radical)
 
 ---
 
@@ -42,9 +42,5 @@
   
 ---
 
-### Tech Skills Badges
-![HTML](https://img.shields.io/badge/Code-HTML-orange)
-![CSS](https://img.shields.io/badge/Code-CSS-blue)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![Git](https://img.shields.io/badge/Version%20Control-Git-red)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-username)
 
