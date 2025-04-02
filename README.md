@@ -30,7 +30,7 @@
 ---
 
 ### 📈 **GitHub Stats:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Puneetkumarboi)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Puneetkumarboinpally)
 ![Puneetkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Puneetkumarboinpally&show_icons=true&theme=radical)pally&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=Puneetkumarboinpally)
 
@@ -39,3 +39,12 @@
 ### 🔗 **Connect with Me:**
 - **LinkedIn:** [Puneetkumar Boinpally](https://www.linkedin.com/in/puneetkumarboinpally)
 - **Portfolio:** [puneetkumarboinpally.dev](https://puneetkumarboinpally.dev)
+  
+---
+
+### Tech Skills Badges
+![HTML](https://img.shields.io/badge/Code-HTML-orange)
+![CSS](https://img.shields.io/badge/Code-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![Git](https://img.shields.io/badge/Version%20Control-Git-red)
+
