@@ -2,8 +2,8 @@
 ![HTML](https://img.shields.io/badge/Code-HTML-orange)
 ![CSS](https://img.shields.io/badge/Code-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![ReactJs](https://img.shields.io/badge/Code-JavaScript-yellow)
-![Tailwind](https://img.shields.io/badge/Code-JavaScript-yellow)
+![ReactJs](https://img.shields.io/badge/Code-ReatJs-green)
+![Tailwind](https://img.shields.io/badge/Code-Tailwindjs-voilet)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-red)
 
 💻 **Web Developer** | 🎨 **Frontend Enthusiast** | 🌍 **Based in Sheffield, UK**
