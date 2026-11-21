@@ -6,7 +6,7 @@
 ![Tailwind](https://img.shields.io/badge/Code-TailwindCss-skyblue)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-red)
 
-💻 **Web Developer** | 🎨 **Frontend Enthusiast** | 🌍 **Based in Sheffield, UK**
+💻 **Web Developer** | 🎨 **Frontend Enthusiast** | 🌍 **Based in Hyderabad, Ind**
 
 ---
 
